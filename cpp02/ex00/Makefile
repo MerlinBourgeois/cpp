@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++11
-TARGET = PPVUCU
+TARGET = MPC
 SRCS = main.cpp \
        Fixed.cpp
 
